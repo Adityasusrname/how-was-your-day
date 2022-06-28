@@ -1,0 +1,19 @@
+header{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: blue;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+.listContainer{
+    display: flex;
+    justify-content: center;
+}
+li{
+    margin:10px;
+}
